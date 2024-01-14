@@ -1,14 +1,16 @@
 .odd {
-    background-color: rgb(193, 50, 119);
-    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: lightpink;
+    font-family: Verdana, DejaVuSans, sans-serif;
 }
 .no2 {
-    color: rgb(0, 17, 250);
+    color: blue;
     font-size: 36px;
 }
 .no3 {
     font-size: 24px;
 }
 .no4 {
-    background-color: rgb(109, 154, 109);
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
